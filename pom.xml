@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.sas</groupId>
-    <artifactId>SasHelloWorld</artifactId>
+    <artifactId>GrammarHelloWorld</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
